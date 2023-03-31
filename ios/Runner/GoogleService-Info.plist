@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>68288405858-5malo1dhc3t0h78osp8i48ue1tctev3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.68288405858-5malo1dhc3t0h78osp8i48ue1tctev3b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDD7lCMCygH6CD0VYFNmoeRELxUwl1i1y0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>68288405858</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.godseye</string>
+	<key>PROJECT_ID</key>
+	<string>godseye-91d7b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>godseye-91d7b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:68288405858:ios:dfe826462bfb6599a68c3b</string>
+</dict>
+</plist>
